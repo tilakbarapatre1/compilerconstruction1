@@ -1,4 +1,3 @@
-```lex
 %{
 #include<stdio.h>
 
